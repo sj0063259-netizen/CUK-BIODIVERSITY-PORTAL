@@ -1,0 +1,2522 @@
+[
+    {
+        "id": 1,
+        "slug": "lepidoptera",
+        "scientificName": "Lepidoptera",
+        "commonName": "Butterflies and Moths",
+        "category": "Insects"
+    },
+    {
+        "id": 2,
+        "slug": "mucuna-pruriens",
+        "scientificName": "Mucuna pruriens",
+        "commonName": "Velvet bean",
+        "category": "Plants"
+    },
+    {
+        "id": 3,
+        "slug": "delonix-regia",
+        "scientificName": "Delonix regia",
+        "commonName": "May-flower Tree",
+        "category": "Plants"
+    },
+    {
+        "id": 4,
+        "slug": "calotropis-procera",
+        "scientificName": "Calotropis procera",
+        "commonName": "giant milkweed",
+        "category": "Plants"
+    },
+    {
+        "id": 5,
+        "slug": "calotes-versicolor",
+        "scientificName": "Calotes versicolor",
+        "commonName": "Indian Garden Lizard",
+        "category": "Reptiles"
+    },
+    {
+        "id": 6,
+        "slug": "pavo-cristatus",
+        "scientificName": "Pavo cristatus",
+        "commonName": "Indian Peafowl",
+        "category": "Birds"
+    },
+    {
+        "id": 7,
+        "slug": "tridax-procumbens",
+        "scientificName": "Tridax procumbens",
+        "commonName": "Tridax Daisy",
+        "category": "Plants"
+    },
+    {
+        "id": 8,
+        "slug": "abutilon",
+        "scientificName": "Abutilon",
+        "commonName": "Indian mallows",
+        "category": "Plants"
+    },
+    {
+        "id": 9,
+        "slug": "senna",
+        "scientificName": "Senna",
+        "commonName": "sennas",
+        "category": "Plants"
+    },
+    {
+        "id": 10,
+        "slug": "lantana-strigocamara",
+        "scientificName": "Lantana strigocamara",
+        "commonName": "Lantana",
+        "category": "Plants"
+    },
+    {
+        "id": 11,
+        "slug": "lamiaceae",
+        "scientificName": "Lamiaceae",
+        "commonName": "Mint Family",
+        "category": "Plants"
+    },
+    {
+        "id": 12,
+        "slug": "poaceae",
+        "scientificName": "Poaceae",
+        "commonName": "Grasses",
+        "category": "Plants"
+    },
+    {
+        "id": 13,
+        "slug": "morinda-coreia",
+        "scientificName": "Morinda coreia",
+        "commonName": "Indian Mulberry",
+        "category": "Plants"
+    },
+    {
+        "id": 14,
+        "slug": "cleome-viscosa",
+        "scientificName": "Cleome viscosa",
+        "commonName": "Asian Spiderflower",
+        "category": "Plants"
+    },
+    {
+        "id": 15,
+        "slug": "cynodon-dactylon",
+        "scientificName": "Cynodon dactylon",
+        "commonName": "Bermuda grass",
+        "category": "Plants"
+    },
+    {
+        "id": 16,
+        "slug": "parthenium",
+        "scientificName": "Parthenium",
+        "commonName": "wild quinines",
+        "category": "Plants"
+    },
+    {
+        "id": 17,
+        "slug": "duranta-erecta",
+        "scientificName": "Duranta erecta",
+        "commonName": "Skyflower",
+        "category": "Plants"
+    },
+    {
+        "id": 18,
+        "slug": "cordia-myxa",
+        "scientificName": "Cordia myxa",
+        "commonName": "Assyrian Plum",
+        "category": "Plants"
+    },
+    {
+        "id": 19,
+        "slug": "magnoliopsida",
+        "scientificName": "Magnoliopsida",
+        "commonName": "Dicots",
+        "category": "Plants"
+    },
+    {
+        "id": 20,
+        "slug": "waltheria-indica",
+        "scientificName": "Waltheria indica",
+        "commonName": "Sleepy Morning",
+        "category": "Plants"
+    },
+    {
+        "id": 21,
+        "slug": "ipomoea-carnea",
+        "scientificName": "Ipomoea carnea",
+        "commonName": "Bush Morning Glory",
+        "category": "Plants"
+    },
+    {
+        "id": 22,
+        "slug": "cardiospermum-halicacabum",
+        "scientificName": "Cardiospermum halicacabum",
+        "commonName": "Lesser Balloon Vine",
+        "category": "Plants"
+    },
+    {
+        "id": 23,
+        "slug": "papilio",
+        "scientificName": "Papilio",
+        "commonName": "Common Swallowtails",
+        "category": "Insects"
+    },
+    {
+        "id": 24,
+        "slug": "cullen",
+        "scientificName": "Cullen",
+        "commonName": "Scurfpeas",
+        "category": "Plants"
+    },
+    {
+        "id": 25,
+        "slug": "mimosa-dysocarpa",
+        "scientificName": "Mimosa dysocarpa",
+        "commonName": "velvetpod mimosa",
+        "category": "Plants"
+    },
+    {
+        "id": 26,
+        "slug": "eurema-hecabe",
+        "scientificName": "Eurema hecabe",
+        "commonName": "Common Grass Yellow",
+        "category": "Insects"
+    },
+    {
+        "id": 27,
+        "slug": "danaus-chrysippus",
+        "scientificName": "Danaus chrysippus",
+        "commonName": "Plain Tiger Butterfly",
+        "category": "Insects"
+    },
+    {
+        "id": 28,
+        "slug": "gliricidia-sepium",
+        "scientificName": "Gliricidia sepium",
+        "commonName": "Fence Post Tree",
+        "category": "Plants"
+    },
+    {
+        "id": 29,
+        "slug": "parthenium-hysterophorus",
+        "scientificName": "Parthenium hysterophorus",
+        "commonName": "Santa Maria feverfew",
+        "category": "Plants"
+    },
+    {
+        "id": 30,
+        "slug": "benincaseae",
+        "scientificName": "Benincaseae",
+        "commonName": "Benincaseae",
+        "category": "Plants"
+    },
+    {
+        "id": 31,
+        "slug": "papilio-demoleus",
+        "scientificName": "Papilio demoleus",
+        "commonName": "Lime Swallowtail",
+        "category": "Insects"
+    },
+    {
+        "id": 32,
+        "slug": "acrida",
+        "scientificName": "Acrida",
+        "commonName": "Slantface Grasshoppers",
+        "category": "Insects"
+    },
+    {
+        "id": 33,
+        "slug": "semnopithecus",
+        "scientificName": "Semnopithecus",
+        "commonName": "Grey and Nilgiri Langurs",
+        "category": "Mammals"
+    },
+    {
+        "id": 34,
+        "slug": "trichodesma",
+        "scientificName": "Trichodesma",
+        "commonName": "Barbbells",
+        "category": "Plants"
+    },
+    {
+        "id": 35,
+        "slug": "orphulella-pelidna",
+        "scientificName": "Orphulella pelidna",
+        "commonName": "Spotted-winged Grasshopper",
+        "category": "Insects"
+    },
+    {
+        "id": 36,
+        "slug": "plumbago-zeylanica",
+        "scientificName": "Plumbago zeylanica",
+        "commonName": "wild leadwort",
+        "category": "Plants"
+    },
+    {
+        "id": 37,
+        "slug": "vachellia-nilotica",
+        "scientificName": "Vachellia nilotica",
+        "commonName": "Egyptian acacia",
+        "category": "Plants"
+    },
+    {
+        "id": 38,
+        "slug": "cordia-dichotoma",
+        "scientificName": "Cordia dichotoma",
+        "commonName": "Clammy Cherry",
+        "category": "Plants"
+    },
+    {
+        "id": 39,
+        "slug": "indigofera-trifoliata",
+        "scientificName": "Indigofera trifoliata",
+        "commonName": "Indigofera trifoliata",
+        "category": "Plants"
+    },
+    {
+        "id": 40,
+        "slug": "indigofera-linifolia",
+        "scientificName": "Indigofera linifolia",
+        "commonName": "Narrowleaf Indigo",
+        "category": "Plants"
+    },
+    {
+        "id": 41,
+        "slug": "chilades-parrhasius",
+        "scientificName": "Chilades parrhasius",
+        "commonName": "Small Cupid",
+        "category": "Insects"
+    },
+    {
+        "id": 42,
+        "slug": "vicoa-indica",
+        "scientificName": "Vicoa indica",
+        "commonName": "Vicoa indica",
+        "category": "Plants"
+    },
+    {
+        "id": 43,
+        "slug": "moringa-oleifera",
+        "scientificName": "Moringa oleifera",
+        "commonName": "Moringa tree",
+        "category": "Plants"
+    },
+    {
+        "id": 44,
+        "slug": "celosia-argentea",
+        "scientificName": "Celosia argentea",
+        "commonName": "Quail Grass",
+        "category": "Plants"
+    },
+    {
+        "id": 45,
+        "slug": "cenchrus-pedicellatus",
+        "scientificName": "Cenchrus pedicellatus",
+        "commonName": "Cenchrus pedicellatus",
+        "category": "Plants"
+    },
+    {
+        "id": 46,
+        "slug": "mimosa-candollei",
+        "scientificName": "Mimosa candollei",
+        "commonName": "Mimosa candollei",
+        "category": "Plants"
+    },
+    {
+        "id": 47,
+        "slug": "lantana-camara",
+        "scientificName": "Lantana camara",
+        "commonName": "common lantana",
+        "category": "Plants"
+    },
+    {
+        "id": 48,
+        "slug": "peltophorum-pterocarpum",
+        "scientificName": "Peltophorum pterocarpum",
+        "commonName": "Yellow Flame Tree",
+        "category": "Plants"
+    },
+    {
+        "id": 49,
+        "slug": "citrus-latifolia",
+        "scientificName": "Citrus Ã— latifolia",
+        "commonName": "Lime",
+        "category": "Plants"
+    },
+    {
+        "id": 50,
+        "slug": "mesosphaerum-suaveolens",
+        "scientificName": "Mesosphaerum suaveolens",
+        "commonName": "Wide Spikenard",
+        "category": "Plants"
+    },
+    {
+        "id": 51,
+        "slug": "asteroideae",
+        "scientificName": "Asteroideae",
+        "commonName": "Asteroideae",
+        "category": "Plants"
+    },
+    {
+        "id": 52,
+        "slug": "crotalaria-hebecarpa",
+        "scientificName": "Crotalaria hebecarpa",
+        "commonName": "Crotalaria hebecarpa",
+        "category": "Plants"
+    },
+    {
+        "id": 53,
+        "slug": "butea-monosperma",
+        "scientificName": "Butea monosperma",
+        "commonName": "Flame of The Forest",
+        "category": "Plants"
+    },
+    {
+        "id": 54,
+        "slug": "cocculus-hirsutus",
+        "scientificName": "Cocculus hirsutus",
+        "commonName": "Bushveld Moonseed Creeper",
+        "category": "Plants"
+    },
+    {
+        "id": 55,
+        "slug": "cyanotis-fasciculata",
+        "scientificName": "Cyanotis fasciculata",
+        "commonName": "Fluffy Cat Ears",
+        "category": "Plants"
+    },
+    {
+        "id": 56,
+        "slug": "phyllantheae",
+        "scientificName": "Phyllantheae",
+        "commonName": "Phyllantheae",
+        "category": "Plants"
+    },
+    {
+        "id": 57,
+        "slug": "apis-florea",
+        "scientificName": "Apis florea",
+        "commonName": "Red Dwarf Honey Bee",
+        "category": "Insects"
+    },
+    {
+        "id": 58,
+        "slug": "macaca-radiata",
+        "scientificName": "Macaca radiata",
+        "commonName": "Bonnet Macaque",
+        "category": "Mammals"
+    },
+    {
+        "id": 59,
+        "slug": "tamarindus-indica",
+        "scientificName": "Tamarindus indica",
+        "commonName": "Tamarind",
+        "category": "Plants"
+    },
+    {
+        "id": 60,
+        "slug": "citrus",
+        "scientificName": "Citrus",
+        "commonName": "citrus",
+        "category": "Plants"
+    },
+    {
+        "id": 61,
+        "slug": "passiflora",
+        "scientificName": "Passiflora",
+        "commonName": "Passionflowers",
+        "category": "Plants"
+    },
+    {
+        "id": 62,
+        "slug": "ocimum-tenuiflorum",
+        "scientificName": "Ocimum tenuiflorum",
+        "commonName": "Holy Basil",
+        "category": "Plants"
+    },
+    {
+        "id": 63,
+        "slug": "phyllanthus",
+        "scientificName": "Phyllanthus",
+        "commonName": "Phyllanthus",
+        "category": "Plants"
+    },
+    {
+        "id": 64,
+        "slug": "portulaca-oleracea",
+        "scientificName": "Portulaca oleracea",
+        "commonName": "Common Purslane",
+        "category": "Plants"
+    },
+    {
+        "id": 65,
+        "slug": "boerhavia-diffusa",
+        "scientificName": "Boerhavia diffusa",
+        "commonName": "Wineflower",
+        "category": "Plants"
+    },
+    {
+        "id": 66,
+        "slug": "euphorbia",
+        "scientificName": "Euphorbia",
+        "commonName": "Spurges",
+        "category": "Plants"
+    },
+    {
+        "id": 67,
+        "slug": "azadirachta-indica",
+        "scientificName": "Azadirachta indica",
+        "commonName": "Neem",
+        "category": "Plants"
+    },
+    {
+        "id": 68,
+        "slug": "polygala",
+        "scientificName": "Polygala",
+        "commonName": "Milkworts",
+        "category": "Plants"
+    },
+    {
+        "id": 69,
+        "slug": "stylosanthes-hamata",
+        "scientificName": "Stylosanthes hamata",
+        "commonName": "Caribbean Stylo",
+        "category": "Plants"
+    },
+    {
+        "id": 70,
+        "slug": "spilostethus-pandurus",
+        "scientificName": "Spilostethus pandurus",
+        "commonName": "Indian Milkweed Bug",
+        "category": "Insects"
+    },
+    {
+        "id": 71,
+        "slug": "xylocopa",
+        "scientificName": "Xylocopa",
+        "commonName": "Large Carpenter Bees",
+        "category": "Insects"
+    },
+    {
+        "id": 72,
+        "slug": "ipomoea-obscura",
+        "scientificName": "Ipomoea obscura",
+        "commonName": "Obscure Morning Glory",
+        "category": "Plants"
+    },
+    {
+        "id": 73,
+        "slug": "artocarpus-heterophyllus",
+        "scientificName": "Artocarpus heterophyllus",
+        "commonName": "Jackfruit",
+        "category": "Plants"
+    },
+    {
+        "id": 74,
+        "slug": "plantae",
+        "scientificName": "Plantae",
+        "commonName": "Plants",
+        "category": "Plants"
+    },
+    {
+        "id": 75,
+        "slug": "rhynchosia-minima",
+        "scientificName": "Rhynchosia minima",
+        "commonName": "Least Snoutbean",
+        "category": "Plants"
+    },
+    {
+        "id": 76,
+        "slug": "lamyctes",
+        "scientificName": "Lamyctes",
+        "commonName": "Lamyctes",
+        "category": "Others"
+    },
+    {
+        "id": 77,
+        "slug": "duranta",
+        "scientificName": "Duranta",
+        "commonName": "Duranta",
+        "category": "Plants"
+    },
+    {
+        "id": 78,
+        "slug": "euphorbia-hirta",
+        "scientificName": "Euphorbia hirta",
+        "commonName": "Asthma Plant",
+        "category": "Plants"
+    },
+    {
+        "id": 79,
+        "slug": "nerium-oleander",
+        "scientificName": "Nerium oleander",
+        "commonName": "oleander",
+        "category": "Plants"
+    },
+    {
+        "id": 80,
+        "slug": "phyllanthus-amarus",
+        "scientificName": "Phyllanthus amarus",
+        "commonName": "Gale of the Wind",
+        "category": "Plants"
+    },
+    {
+        "id": 81,
+        "slug": "achyranthes-aspera",
+        "scientificName": "Achyranthes aspera",
+        "commonName": "Devil's Horsewhip",
+        "category": "Plants"
+    },
+    {
+        "id": 82,
+        "slug": "bougainvillea",
+        "scientificName": "Bougainvillea",
+        "commonName": "bougainvilleas",
+        "category": "Plants"
+    },
+    {
+        "id": 83,
+        "slug": "ficus-religiosa",
+        "scientificName": "Ficus religiosa",
+        "commonName": "Peepal",
+        "category": "Plants"
+    },
+    {
+        "id": 84,
+        "slug": "platycladus",
+        "scientificName": "Platycladus",
+        "commonName": "Platycladus",
+        "category": "Plants"
+    },
+    {
+        "id": 85,
+        "slug": "mangifera-indica",
+        "scientificName": "Mangifera indica",
+        "commonName": "Indian mango",
+        "category": "Plants"
+    },
+    {
+        "id": 86,
+        "slug": "carica",
+        "scientificName": "Carica",
+        "commonName": "Papaya",
+        "category": "Plants"
+    },
+    {
+        "id": 87,
+        "slug": "pycnonotus-cafer",
+        "scientificName": "Pycnonotus cafer",
+        "commonName": "Red-vented Bulbul",
+        "category": "Birds"
+    },
+    {
+        "id": 88,
+        "slug": "alternanthera-ficoidea",
+        "scientificName": "Alternanthera ficoidea",
+        "commonName": "sanguinaria",
+        "category": "Plants"
+    },
+    {
+        "id": 89,
+        "slug": "cucumis",
+        "scientificName": "Cucumis",
+        "commonName": "Melons & Cucumbers",
+        "category": "Plants"
+    },
+    {
+        "id": 90,
+        "slug": "sphagneticola-trilobata",
+        "scientificName": "Sphagneticola trilobata",
+        "commonName": "Trailing Daisy",
+        "category": "Plants"
+    },
+    {
+        "id": 91,
+        "slug": "mimosoideae",
+        "scientificName": "Mimosoideae",
+        "commonName": "Acacias, Mimosas, Mesquites, and Allies",
+        "category": "Plants"
+    },
+    {
+        "id": 92,
+        "slug": "tephrosia-purpurea",
+        "scientificName": "Tephrosia purpurea",
+        "commonName": "Purple Hoarypea",
+        "category": "Plants"
+    },
+    {
+        "id": 93,
+        "slug": "rostellularia-procumbens",
+        "scientificName": "Rostellularia procumbens",
+        "commonName": "Rostellularia procumbens",
+        "category": "Plants"
+    },
+    {
+        "id": 94,
+        "slug": "rostellularia",
+        "scientificName": "Rostellularia",
+        "commonName": "Rostellularia",
+        "category": "Plants"
+    },
+    {
+        "id": 95,
+        "slug": "canthium-coromandelicum",
+        "scientificName": "Canthium coromandelicum",
+        "commonName": "coromandel boxwood",
+        "category": "Plants"
+    },
+    {
+        "id": 96,
+        "slug": "camponotus",
+        "scientificName": "Camponotus",
+        "commonName": "Carpenter Ants, Typical Sugar Ants and Allies",
+        "category": "Insects"
+    },
+    {
+        "id": 97,
+        "slug": "marasmius",
+        "scientificName": "Marasmius",
+        "commonName": "Pinwheels and Parachute Mushrooms",
+        "category": "Fungi"
+    },
+    {
+        "id": 98,
+        "slug": "commelina",
+        "scientificName": "Commelina",
+        "commonName": "dayflowers",
+        "category": "Plants"
+    },
+    {
+        "id": 99,
+        "slug": "lonchura-punctulata",
+        "scientificName": "Lonchura punctulata",
+        "commonName": "Scaly-breasted Munia",
+        "category": "Birds"
+    },
+    {
+        "id": 100,
+        "slug": "sturnia-pagodarum",
+        "scientificName": "Sturnia pagodarum",
+        "commonName": "Brahminy Starling",
+        "category": "Birds"
+    },
+    {
+        "id": 101,
+        "slug": "paraleptomenes-miniatus",
+        "scientificName": "Paraleptomenes miniatus",
+        "commonName": "Paraleptomenes miniatus",
+        "category": "Insects"
+    },
+    {
+        "id": 102,
+        "slug": "junonia-lemonias",
+        "scientificName": "Junonia lemonias",
+        "commonName": "Lemon Pansy",
+        "category": "Insects"
+    },
+    {
+        "id": 103,
+        "slug": "cinnyris",
+        "scientificName": "Cinnyris",
+        "commonName": "Cinnyris Sunbirds",
+        "category": "Birds"
+    },
+    {
+        "id": 104,
+        "slug": "lysiphyllum-cunninghamii",
+        "scientificName": "Lysiphyllum cunninghamii",
+        "commonName": "Jigal Tree",
+        "category": "Plants"
+    },
+    {
+        "id": 105,
+        "slug": "malveae",
+        "scientificName": "Malveae",
+        "commonName": "Malveae",
+        "category": "Plants"
+    },
+    {
+        "id": 106,
+        "slug": "jatropha-gossypiifolia",
+        "scientificName": "Jatropha gossypiifolia",
+        "commonName": "Bellyache Bush",
+        "category": "Plants"
+    },
+    {
+        "id": 107,
+        "slug": "morus",
+        "scientificName": "Morus",
+        "commonName": "Mulberries",
+        "category": "Plants"
+    },
+    {
+        "id": 108,
+        "slug": "dichrostachys-cinerea",
+        "scientificName": "Dichrostachys cinerea",
+        "commonName": "aroma",
+        "category": "Plants"
+    },
+    {
+        "id": 109,
+        "slug": "tephrosia",
+        "scientificName": "Tephrosia",
+        "commonName": "Hoarypeas",
+        "category": "Plants"
+    },
+    {
+        "id": 110,
+        "slug": "tithonia-diversifolia",
+        "scientificName": "Tithonia diversifolia",
+        "commonName": "Mexican sunflower",
+        "category": "Plants"
+    },
+    {
+        "id": 111,
+        "slug": "portulaca",
+        "scientificName": "Portulaca",
+        "commonName": "purslanes",
+        "category": "Plants"
+    },
+    {
+        "id": 112,
+        "slug": "plumeria-rubra",
+        "scientificName": "Plumeria rubra",
+        "commonName": "Mexican Plumeria",
+        "category": "Plants"
+    },
+    {
+        "id": 113,
+        "slug": "pongamia",
+        "scientificName": "Pongamia",
+        "commonName": "Pongamia",
+        "category": "Plants"
+    },
+    {
+        "id": 114,
+        "slug": "indigofera",
+        "scientificName": "Indigofera",
+        "commonName": "Indigos",
+        "category": "Plants"
+    },
+    {
+        "id": 115,
+        "slug": "ficus-benghalensis",
+        "scientificName": "Ficus benghalensis",
+        "commonName": "Indian banyan",
+        "category": "Plants"
+    },
+    {
+        "id": 116,
+        "slug": "eucalyptus",
+        "scientificName": "Eucalyptus",
+        "commonName": "eucalyptus",
+        "category": "Plants"
+    },
+    {
+        "id": 117,
+        "slug": "leucaena-leucocephala",
+        "scientificName": "Leucaena leucocephala",
+        "commonName": "White leadtree",
+        "category": "Plants"
+    },
+    {
+        "id": 118,
+        "slug": "helicina",
+        "scientificName": "Helicina",
+        "commonName": "Helicina",
+        "category": "Molluscs"
+    },
+    {
+        "id": 119,
+        "slug": "pongamia-pinnata",
+        "scientificName": "Pongamia pinnata",
+        "commonName": "Indian beech tree",
+        "category": "Plants"
+    },
+    {
+        "id": 120,
+        "slug": "indigofera-cordifolia",
+        "scientificName": "Indigofera cordifolia",
+        "commonName": "Indigofera cordifolia",
+        "category": "Plants"
+    },
+    {
+        "id": 121,
+        "slug": "boerhavia-erecta",
+        "scientificName": "Boerhavia erecta",
+        "commonName": "Erect spiderling",
+        "category": "Plants"
+    },
+    {
+        "id": 122,
+        "slug": "vigna-radiata",
+        "scientificName": "Vigna radiata",
+        "commonName": "Mung Bean",
+        "category": "Plants"
+    },
+    {
+        "id": 123,
+        "slug": "commelina-forskaolii",
+        "scientificName": "Commelina forskaolii",
+        "commonName": "Rat's-ear",
+        "category": "Plants"
+    },
+    {
+        "id": 124,
+        "slug": "annona-squamosa",
+        "scientificName": "Annona squamosa",
+        "commonName": "Custard Apple",
+        "category": "Plants"
+    },
+    {
+        "id": 125,
+        "slug": "bambusa-vulgaris",
+        "scientificName": "Bambusa vulgaris",
+        "commonName": "common bamboo",
+        "category": "Plants"
+    },
+    {
+        "id": 126,
+        "slug": "musa",
+        "scientificName": "Musa",
+        "commonName": "Bananas",
+        "category": "Plants"
+    },
+    {
+        "id": 127,
+        "slug": "spilopelia-senegalensis",
+        "scientificName": "Spilopelia senegalensis",
+        "commonName": "Laughing Dove",
+        "category": "Birds"
+    },
+    {
+        "id": 128,
+        "slug": "acrididae",
+        "scientificName": "Acrididae",
+        "commonName": "Short-horned Grasshoppers",
+        "category": "Insects"
+    },
+    {
+        "id": 129,
+        "slug": "oedipodinae",
+        "scientificName": "Oedipodinae",
+        "commonName": "Bandwing Grasshoppers",
+        "category": "Insects"
+    },
+    {
+        "id": 130,
+        "slug": "ziziphus",
+        "scientificName": "Ziziphus",
+        "commonName": "Jujubes",
+        "category": "Plants"
+    },
+    {
+        "id": 131,
+        "slug": "schizocephala-bicornis",
+        "scientificName": "Schizocephala bicornis",
+        "commonName": "Indian Grass Mantis",
+        "category": "Insects"
+    },
+    {
+        "id": 132,
+        "slug": "acridinae",
+        "scientificName": "Acridinae",
+        "commonName": "Silent Slant-faced Grasshoppers",
+        "category": "Insects"
+    },
+    {
+        "id": 133,
+        "slug": "thanatus-vulgaris",
+        "scientificName": "Thanatus vulgaris",
+        "commonName": "Cricket Thief Spider",
+        "category": "Arachnids"
+    },
+    {
+        "id": 134,
+        "slug": "simarouba",
+        "scientificName": "Simarouba",
+        "commonName": "Simarouba",
+        "category": "Plants"
+    },
+    {
+        "id": 135,
+        "slug": "pseudozarba-bipartita",
+        "scientificName": "Pseudozarba bipartita",
+        "commonName": "Twoband Ozarba",
+        "category": "Insects"
+    },
+    {
+        "id": 136,
+        "slug": "crambidae",
+        "scientificName": "Crambidae",
+        "commonName": "Crambid Snout Moths",
+        "category": "Insects"
+    },
+    {
+        "id": 137,
+        "slug": "cassia-fistula",
+        "scientificName": "Cassia fistula",
+        "commonName": "Golden Shower Tree",
+        "category": "Plants"
+    },
+    {
+        "id": 138,
+        "slug": "evolvulus-alsinoides",
+        "scientificName": "Evolvulus alsinoides",
+        "commonName": "tropical speedwell",
+        "category": "Plants"
+    },
+    {
+        "id": 139,
+        "slug": "junonia-orithya",
+        "scientificName": "Junonia orithya",
+        "commonName": "Blue Pansy",
+        "category": "Insects"
+    },
+    {
+        "id": 140,
+        "slug": "langona",
+        "scientificName": "Langona",
+        "commonName": "Langona",
+        "category": "Arachnids"
+    },
+    {
+        "id": 141,
+        "slug": "acridotheres-tristis",
+        "scientificName": "Acridotheres tristis",
+        "commonName": "Common Myna",
+        "category": "Birds"
+    },
+    {
+        "id": 142,
+        "slug": "passer-domesticus",
+        "scientificName": "Passer domesticus",
+        "commonName": "House Sparrow",
+        "category": "Birds"
+    },
+    {
+        "id": 143,
+        "slug": "dendrocitta-vagabunda",
+        "scientificName": "Dendrocitta vagabunda",
+        "commonName": "Rufous Treepie",
+        "category": "Birds"
+    },
+    {
+        "id": 144,
+        "slug": "bauhinia-purpurea",
+        "scientificName": "Bauhinia purpurea",
+        "commonName": "Orchid Tree",
+        "category": "Plants"
+    },
+    {
+        "id": 145,
+        "slug": "dolichandrone-falcata",
+        "scientificName": "Dolichandrone falcata",
+        "commonName": "Dolichandrone falcata",
+        "category": "Plants"
+    },
+    {
+        "id": 146,
+        "slug": "duttaphrynus",
+        "scientificName": "Duttaphrynus",
+        "commonName": "Asian Toads",
+        "category": "Amphibians"
+    },
+    {
+        "id": 147,
+        "slug": "eutropis-carinata",
+        "scientificName": "Eutropis carinata",
+        "commonName": "Keeled Indian Mabuya",
+        "category": "Reptiles"
+    },
+    {
+        "id": 148,
+        "slug": "spilostethus-hospes",
+        "scientificName": "Spilostethus hospes",
+        "commonName": "Darth Maul Bug",
+        "category": "Insects"
+    },
+    {
+        "id": 149,
+        "slug": "spoladea-recurvalis",
+        "scientificName": "Spoladea recurvalis",
+        "commonName": "Beet Webworm Moth",
+        "category": "Insects"
+    },
+    {
+        "id": 150,
+        "slug": "vigna",
+        "scientificName": "Vigna",
+        "commonName": "Vigna",
+        "category": "Plants"
+    },
+    {
+        "id": 151,
+        "slug": "cajanus-scarabaeoides",
+        "scientificName": "Cajanus scarabaeoides",
+        "commonName": "Showy Pigeonpea",
+        "category": "Plants"
+    },
+    {
+        "id": 152,
+        "slug": "ficus",
+        "scientificName": "Ficus",
+        "commonName": "Figs",
+        "category": "Plants"
+    },
+    {
+        "id": 153,
+        "slug": "annona",
+        "scientificName": "Annona",
+        "commonName": "custard apples",
+        "category": "Plants"
+    },
+    {
+        "id": 154,
+        "slug": "holoptelea",
+        "scientificName": "Holoptelea",
+        "commonName": "Holoptelea",
+        "category": "Plants"
+    },
+    {
+        "id": 155,
+        "slug": "pisolithus",
+        "scientificName": "Pisolithus",
+        "commonName": "Pisolithus",
+        "category": "Fungi"
+    },
+    {
+        "id": 156,
+        "slug": "urochloa-panicoides",
+        "scientificName": "Urochloa panicoides",
+        "commonName": "Liverseed Grass",
+        "category": "Plants"
+    },
+    {
+        "id": 157,
+        "slug": "eragrostis-barrelieri",
+        "scientificName": "Eragrostis barrelieri",
+        "commonName": "Mediterranean lovegrass",
+        "category": "Plants"
+    },
+    {
+        "id": 158,
+        "slug": "amaranthus",
+        "scientificName": "Amaranthus",
+        "commonName": "amaranths",
+        "category": "Plants"
+    },
+    {
+        "id": 159,
+        "slug": "neltuma",
+        "scientificName": "Neltuma",
+        "commonName": "mesquites",
+        "category": "Plants"
+    },
+    {
+        "id": 160,
+        "slug": "physalis-angulata",
+        "scientificName": "Physalis angulata",
+        "commonName": "cutleaf groundcherry",
+        "category": "Plants"
+    },
+    {
+        "id": 161,
+        "slug": "mimosa",
+        "scientificName": "Mimosa",
+        "commonName": "Sensitive Plants",
+        "category": "Plants"
+    },
+    {
+        "id": 162,
+        "slug": "phygasia-silacea",
+        "scientificName": "Phygasia silacea",
+        "commonName": "Phygasia silacea",
+        "category": "Insects"
+    },
+    {
+        "id": 163,
+        "slug": "ricinus-communis",
+        "scientificName": "Ricinus communis",
+        "commonName": "castor bean",
+        "category": "Plants"
+    },
+    {
+        "id": 164,
+        "slug": "tarucus",
+        "scientificName": "Tarucus",
+        "commonName": "Blue Pierrots",
+        "category": "Insects"
+    },
+    {
+        "id": 165,
+        "slug": "acraea-terpsicore",
+        "scientificName": "Acraea terpsicore",
+        "commonName": "Tawny Coster",
+        "category": "Insects"
+    },
+    {
+        "id": 166,
+        "slug": "belenois-aurota",
+        "scientificName": "Belenois aurota",
+        "commonName": "Pioneer",
+        "category": "Insects"
+    },
+    {
+        "id": 167,
+        "slug": "catopsilia-pomona",
+        "scientificName": "Catopsilia pomona",
+        "commonName": "Lemon Emigrant",
+        "category": "Insects"
+    },
+    {
+        "id": 168,
+        "slug": "oryctes-rhinoceros",
+        "scientificName": "Oryctes rhinoceros",
+        "commonName": "Coconut Rhinoceros Beetle",
+        "category": "Insects"
+    },
+    {
+        "id": 169,
+        "slug": "cerosterna-scabrator",
+        "scientificName": "Cerosterna scabrator",
+        "commonName": "Cerosterna scabrator",
+        "category": "Insects"
+    },
+    {
+        "id": 170,
+        "slug": "euploea-core",
+        "scientificName": "Euploea core",
+        "commonName": "Common Crow",
+        "category": "Insects"
+    },
+    {
+        "id": 171,
+        "slug": "mangina-argus",
+        "scientificName": "Mangina argus",
+        "commonName": "Crotalaria Podbearer",
+        "category": "Insects"
+    },
+    {
+        "id": 172,
+        "slug": "pachliopta-hector",
+        "scientificName": "Pachliopta hector",
+        "commonName": "Crimson Rose",
+        "category": "Insects"
+    },
+    {
+        "id": 173,
+        "slug": "merops-orientalis",
+        "scientificName": "Merops orientalis",
+        "commonName": "Asian Green Bee-eater",
+        "category": "Birds"
+    },
+    {
+        "id": 174,
+        "slug": "euphorbia-heterophylla",
+        "scientificName": "Euphorbia heterophylla",
+        "commonName": "painted spurge",
+        "category": "Plants"
+    },
+    {
+        "id": 175,
+        "slug": "halcyon-smyrnensis",
+        "scientificName": "Halcyon smyrnensis",
+        "commonName": "White-throated Kingfisher",
+        "category": "Birds"
+    },
+    {
+        "id": 176,
+        "slug": "cucumis-maderaspatanus",
+        "scientificName": "Cucumis maderaspatanus",
+        "commonName": "Madras Pea Pumpkin",
+        "category": "Plants"
+    },
+    {
+        "id": 177,
+        "slug": "punica-granatum",
+        "scientificName": "Punica granatum",
+        "commonName": "pomegranate",
+        "category": "Plants"
+    },
+    {
+        "id": 178,
+        "slug": "ipomoea",
+        "scientificName": "Ipomoea",
+        "commonName": "morning-glories",
+        "category": "Plants"
+    },
+    {
+        "id": 179,
+        "slug": "crotalaria",
+        "scientificName": "Crotalaria",
+        "commonName": "Rattlepods",
+        "category": "Plants"
+    },
+    {
+        "id": 180,
+        "slug": "catharanthus-roseus",
+        "scientificName": "Catharanthus roseus",
+        "commonName": "Madagascar Periwinkle",
+        "category": "Plants"
+    },
+    {
+        "id": 181,
+        "slug": "gomphrena-serrata",
+        "scientificName": "Gomphrena serrata",
+        "commonName": "Gomphrena Weed",
+        "category": "Plants"
+    },
+    {
+        "id": 182,
+        "slug": "angiospermae",
+        "scientificName": "Angiospermae",
+        "commonName": "Flowering Plants",
+        "category": "Plants"
+    },
+    {
+        "id": 183,
+        "slug": "faboideae",
+        "scientificName": "Faboideae",
+        "commonName": "",
+        "category": "Plants"
+    },
+    {
+        "id": 184,
+        "slug": "acalypha",
+        "scientificName": "Acalypha",
+        "commonName": "three-seeded mercuries",
+        "category": "Plants"
+    },
+    {
+        "id": 185,
+        "slug": "camponotus-compressus",
+        "scientificName": "Camponotus compressus",
+        "commonName": "Indian Black Ant",
+        "category": "Insects"
+    },
+    {
+        "id": 186,
+        "slug": "kalanchoe-pinnata",
+        "scientificName": "Kalanchoe pinnata",
+        "commonName": "Air Plant",
+        "category": "Plants"
+    },
+    {
+        "id": 187,
+        "slug": "agave-vivipara",
+        "scientificName": "Agave vivipara",
+        "commonName": "Agave vivipara",
+        "category": "Plants"
+    },
+    {
+        "id": 188,
+        "slug": "dalbergia-sissoo",
+        "scientificName": "Dalbergia sissoo",
+        "commonName": "Indian Rosewood",
+        "category": "Plants"
+    },
+    {
+        "id": 189,
+        "slug": "apis-dorsata",
+        "scientificName": "Apis dorsata",
+        "commonName": "Giant Honey Bee",
+        "category": "Insects"
+    },
+    {
+        "id": 190,
+        "slug": "semnopithecus-entellus",
+        "scientificName": "Semnopithecus entellus",
+        "commonName": "Bengal Sacred Langur",
+        "category": "Mammals"
+    },
+    {
+        "id": 191,
+        "slug": "luffa",
+        "scientificName": "Luffa",
+        "commonName": "Luffas",
+        "category": "Plants"
+    },
+    {
+        "id": 192,
+        "slug": "lamiales",
+        "scientificName": "Lamiales",
+        "commonName": "Mints, Plantains, Olives, and Allies",
+        "category": "Plants"
+    },
+    {
+        "id": 193,
+        "slug": "pseuderanthemum",
+        "scientificName": "Pseuderanthemum",
+        "commonName": "",
+        "category": "Plants"
+    },
+    {
+        "id": 194,
+        "slug": "leucaena",
+        "scientificName": "Leucaena",
+        "commonName": "leadtrees",
+        "category": "Plants"
+    },
+    {
+        "id": 195,
+        "slug": "clitoria",
+        "scientificName": "Clitoria",
+        "commonName": "Clitoria",
+        "category": "Plants"
+    },
+    {
+        "id": 196,
+        "slug": "cordia",
+        "scientificName": "Cordia",
+        "commonName": "Cordia",
+        "category": "Plants"
+    },
+    {
+        "id": 197,
+        "slug": "hierodulinae",
+        "scientificName": "Hierodulinae",
+        "commonName": "Hierodulinae",
+        "category": "Insects"
+    },
+    {
+        "id": 198,
+        "slug": "miltogramma",
+        "scientificName": "Miltogramma",
+        "commonName": "Miltogramma",
+        "category": "Insects"
+    },
+    {
+        "id": 199,
+        "slug": "lablab-purpureus",
+        "scientificName": "Lablab purpureus",
+        "commonName": "Hyacinth bean",
+        "category": "Plants"
+    },
+    {
+        "id": 200,
+        "slug": "asianopleura",
+        "scientificName": "Asianopleura",
+        "commonName": "Asianopleura",
+        "category": "Insects"
+    },
+    {
+        "id": 201,
+        "slug": "athene-brama",
+        "scientificName": "Athene brama",
+        "commonName": "Spotted Owlet",
+        "category": "Birds"
+    },
+    {
+        "id": 202,
+        "slug": "anax-immaculifrons",
+        "scientificName": "Anax immaculifrons",
+        "commonName": "Fiery Emperor",
+        "category": "Insects"
+    },
+    {
+        "id": 203,
+        "slug": "corvus-macrorhynchos",
+        "scientificName": "Corvus macrorhynchos",
+        "commonName": "Large-billed Crow",
+        "category": "Birds"
+    },
+    {
+        "id": 204,
+        "slug": "mesosphaerum",
+        "scientificName": "Mesosphaerum",
+        "commonName": "",
+        "category": "Plants"
+    },
+    {
+        "id": 205,
+        "slug": "portulaca-umbraticola",
+        "scientificName": "Portulaca umbraticola",
+        "commonName": "wingpod purslane",
+        "category": "Plants"
+    },
+    {
+        "id": 206,
+        "slug": "streptopelia-decaocto",
+        "scientificName": "Streptopelia decaocto",
+        "commonName": "Eurasian Collared-Dove",
+        "category": "Birds"
+    },
+    {
+        "id": 207,
+        "slug": "gallinula-chloropus",
+        "scientificName": "Gallinula chloropus",
+        "commonName": "Common Moorhen",
+        "category": "Birds"
+    },
+    {
+        "id": 208,
+        "slug": "hemitheini",
+        "scientificName": "Hemitheini",
+        "commonName": "Hemitheini",
+        "category": "Insects"
+    },
+    {
+        "id": 209,
+        "slug": "luthrodes-pandava",
+        "scientificName": "Luthrodes pandava",
+        "commonName": "Plains Cupid",
+        "category": "Insects"
+    },
+    {
+        "id": 210,
+        "slug": "clania-ignobilis",
+        "scientificName": "Clania ignobilis",
+        "commonName": "Common Case Moth",
+        "category": "Insects"
+    },
+    {
+        "id": 211,
+        "slug": "passiflora-vesicaria",
+        "scientificName": "Passiflora vesicaria",
+        "commonName": "Orangefruit Passionflower",
+        "category": "Plants"
+    },
+    {
+        "id": 212,
+        "slug": "phereoeca",
+        "scientificName": "Phereoeca",
+        "commonName": "Phereoeca",
+        "category": "Insects"
+    },
+    {
+        "id": 213,
+        "slug": "danaina",
+        "scientificName": "Danaina",
+        "commonName": "Tiger Butterflies",
+        "category": "Insects"
+    },
+    {
+        "id": 214,
+        "slug": "mimosa-aculeaticarpa",
+        "scientificName": "Mimosa aculeaticarpa",
+        "commonName": "catclaw mimosa",
+        "category": "Plants"
+    },
+    {
+        "id": 215,
+        "slug": "gaillardia-pulchella",
+        "scientificName": "Gaillardia pulchella",
+        "commonName": "firewheel",
+        "category": "Plants"
+    },
+    {
+        "id": 216,
+        "slug": "peltophorum",
+        "scientificName": "Peltophorum",
+        "commonName": "Peltophorums",
+        "category": "Plants"
+    },
+    {
+        "id": 217,
+        "slug": "semnopithecus-hypoleucos",
+        "scientificName": "Semnopithecus hypoleucos",
+        "commonName": "Malabar Sacred Langur",
+        "category": "Mammals"
+    },
+    {
+        "id": 218,
+        "slug": "psittacula-cyanocephala",
+        "scientificName": "Psittacula cyanocephala",
+        "commonName": "Plum-headed Parakeet",
+        "category": "Birds"
+    },
+    {
+        "id": 219,
+        "slug": "calotropis-gigantea",
+        "scientificName": "Calotropis gigantea",
+        "commonName": "crown flower",
+        "category": "Plants"
+    },
+    {
+        "id": 220,
+        "slug": "portulaca-grandiflora",
+        "scientificName": "Portulaca grandiflora",
+        "commonName": "moss rose",
+        "category": "Plants"
+    },
+    {
+        "id": 221,
+        "slug": "cephonodes-hylas",
+        "scientificName": "Cephonodes hylas",
+        "commonName": "Pellucid Hawkmoth",
+        "category": "Insects"
+    },
+    {
+        "id": 222,
+        "slug": "rosa",
+        "scientificName": "Rosa",
+        "commonName": "roses",
+        "category": "Plants"
+    },
+    {
+        "id": 223,
+        "slug": "zonamegilla",
+        "scientificName": "Zonamegilla",
+        "commonName": "Zonamegilla",
+        "category": "Insects"
+    },
+    {
+        "id": 224,
+        "slug": "psychidae",
+        "scientificName": "Psychidae",
+        "commonName": "Bagworm Moths",
+        "category": "Insects"
+    },
+    {
+        "id": 225,
+        "slug": "leucauge-decorata",
+        "scientificName": "Leucauge decorata",
+        "commonName": "Decorative Vleispider",
+        "category": "Arachnids"
+    },
+    {
+        "id": 226,
+        "slug": "calotes",
+        "scientificName": "Calotes",
+        "commonName": "Oriental Forest Lizards",
+        "category": "Reptiles"
+    },
+    {
+        "id": 227,
+        "slug": "crossandra-infundibuliformis",
+        "scientificName": "Crossandra infundibuliformis",
+        "commonName": "Firecracker-flower",
+        "category": "Plants"
+    },
+    {
+        "id": 228,
+        "slug": "centropus-sinensis",
+        "scientificName": "Centropus sinensis",
+        "commonName": "Greater Coucal",
+        "category": "Birds"
+    },
+    {
+        "id": 229,
+        "slug": "clitoria-ternatea",
+        "scientificName": "Clitoria ternatea",
+        "commonName": "Blue Pea",
+        "category": "Plants"
+    },
+    {
+        "id": 230,
+        "slug": "launaea-nudicaulis",
+        "scientificName": "Launaea nudicaulis",
+        "commonName": "",
+        "category": "Plants"
+    },
+    {
+        "id": 231,
+        "slug": "celosia",
+        "scientificName": "Celosia",
+        "commonName": "Cockscombs",
+        "category": "Plants"
+    },
+    {
+        "id": 232,
+        "slug": "ipomoea-batatas",
+        "scientificName": "Ipomoea batatas",
+        "commonName": "sweet potato",
+        "category": "Plants"
+    },
+    {
+        "id": 233,
+        "slug": "codiaeum-variegatum",
+        "scientificName": "Codiaeum variegatum",
+        "commonName": "Variegated Croton",
+        "category": "Plants"
+    },
+    {
+        "id": 234,
+        "slug": "abelmoschus-esculentus",
+        "scientificName": "Abelmoschus esculentus",
+        "commonName": "Okra",
+        "category": "Plants"
+    },
+    {
+        "id": 235,
+        "slug": "coleus",
+        "scientificName": "Coleus",
+        "commonName": "Hullworts",
+        "category": "Plants"
+    },
+    {
+        "id": 236,
+        "slug": "ixora-coccinea",
+        "scientificName": "Ixora coccinea",
+        "commonName": "Jungle flame",
+        "category": "Plants"
+    },
+    {
+        "id": 237,
+        "slug": "galphimia-gracilis",
+        "scientificName": "Galphimia gracilis",
+        "commonName": "goldshower",
+        "category": "Plants"
+    },
+    {
+        "id": 238,
+        "slug": "combretum-indicum",
+        "scientificName": "Combretum indicum",
+        "commonName": "Rangoon Creeper",
+        "category": "Plants"
+    },
+    {
+        "id": 239,
+        "slug": "hibiscus-praeteritus",
+        "scientificName": "Hibiscus praeteritus",
+        "commonName": "Hibiscus praeteritus",
+        "category": "Plants"
+    },
+    {
+        "id": 240,
+        "slug": "hibiscus-rosa-sinensis",
+        "scientificName": "Hibiscus Ã— rosa-sinensis",
+        "commonName": "Tricolor Hibiscus",
+        "category": "Plants"
+    },
+    {
+        "id": 241,
+        "slug": "zosterops-palpebrosus",
+        "scientificName": "Zosterops palpebrosus",
+        "commonName": "Indian White-eye",
+        "category": "Birds"
+    },
+    {
+        "id": 242,
+        "slug": "hibiscus-micranthus",
+        "scientificName": "Hibiscus micranthus",
+        "commonName": "Tiny White Wild Hibiscus",
+        "category": "Plants"
+    },
+    {
+        "id": 243,
+        "slug": "euodice-malabarica",
+        "scientificName": "Euodice malabarica",
+        "commonName": "Indian Silverbill",
+        "category": "Birds"
+    },
+    {
+        "id": 244,
+        "slug": "justiciinae",
+        "scientificName": "Justiciinae",
+        "commonName": "",
+        "category": "Plants"
+    },
+    {
+        "id": 245,
+        "slug": "polypedates-maculatus",
+        "scientificName": "Polypedates maculatus",
+        "commonName": "Chunam Tree Frog",
+        "category": "Amphibians"
+    },
+    {
+        "id": 246,
+        "slug": "bougainvillea-glabra",
+        "scientificName": "Bougainvillea glabra",
+        "commonName": "lesser bougainvillea",
+        "category": "Plants"
+    },
+    {
+        "id": 247,
+        "slug": "euphorbia-thymifolia",
+        "scientificName": "Euphorbia thymifolia",
+        "commonName": "Red Caustic-creeper",
+        "category": "Plants"
+    },
+    {
+        "id": 248,
+        "slug": "gomphrena-celosioides",
+        "scientificName": "Gomphrena celosioides",
+        "commonName": "prostrate globe-amaranth",
+        "category": "Plants"
+    },
+    {
+        "id": 249,
+        "slug": "myrtoideae",
+        "scientificName": "Myrtoideae",
+        "commonName": "Myrtoideae",
+        "category": "Plants"
+    },
+    {
+        "id": 250,
+        "slug": "tradescantia",
+        "scientificName": "Tradescantia",
+        "commonName": "Spiderworts",
+        "category": "Plants"
+    },
+    {
+        "id": 251,
+        "slug": "heliconia",
+        "scientificName": "Heliconia",
+        "commonName": "Heliconias",
+        "category": "Plants"
+    },
+    {
+        "id": 252,
+        "slug": "alstonia-scholaris",
+        "scientificName": "Alstonia scholaris",
+        "commonName": "White Cheesewood",
+        "category": "Plants"
+    },
+    {
+        "id": 253,
+        "slug": "troglodytes-aedon",
+        "scientificName": "Troglodytes aedon",
+        "commonName": "Northern House Wren",
+        "category": "Birds"
+    },
+    {
+        "id": 254,
+        "slug": "acrididea",
+        "scientificName": "Acrididea",
+        "commonName": "Grasshoppers",
+        "category": "Insects"
+    },
+    {
+        "id": 255,
+        "slug": "phyllanthus-emblica",
+        "scientificName": "Phyllanthus emblica",
+        "commonName": "Myrobalan",
+        "category": "Plants"
+    },
+    {
+        "id": 256,
+        "slug": "leporidae",
+        "scientificName": "Leporidae",
+        "commonName": "Hares and Rabbits",
+        "category": "Mammals"
+    },
+    {
+        "id": 257,
+        "slug": "senna-uniflora",
+        "scientificName": "Senna uniflora",
+        "commonName": "Oneleaf Senna",
+        "category": "Plants"
+    },
+    {
+        "id": 258,
+        "slug": "boerhavia",
+        "scientificName": "Boerhavia",
+        "commonName": "Spiderlings",
+        "category": "Plants"
+    },
+    {
+        "id": 259,
+        "slug": "alternanthera",
+        "scientificName": "Alternanthera",
+        "commonName": "",
+        "category": "Plants"
+    },
+    {
+        "id": 260,
+        "slug": "vanellus-indicus",
+        "scientificName": "Vanellus indicus",
+        "commonName": "Red-wattled Lapwing",
+        "category": "Birds"
+    },
+    {
+        "id": 261,
+        "slug": "myrmeleon-formicarius",
+        "scientificName": "Myrmeleon formicarius",
+        "commonName": "Myrmeleon formicarius",
+        "category": "Insects"
+    },
+    {
+        "id": 262,
+        "slug": "psilopogon-haemacephalus",
+        "scientificName": "Psilopogon haemacephalus",
+        "commonName": "Coppersmith Barbet",
+        "category": "Birds"
+    },
+    {
+        "id": 263,
+        "slug": "funambulus",
+        "scientificName": "Funambulus",
+        "commonName": "Palm Squirrels",
+        "category": "Mammals"
+    },
+    {
+        "id": 264,
+        "slug": "hierococcyx-varius",
+        "scientificName": "Hierococcyx varius",
+        "commonName": "Common Hawk-Cuckoo",
+        "category": "Birds"
+    },
+    {
+        "id": 265,
+        "slug": "prinia-socialis",
+        "scientificName": "Prinia socialis",
+        "commonName": "Ashy Prinia",
+        "category": "Birds"
+    },
+    {
+        "id": 266,
+        "slug": "copsychus-fulicatus",
+        "scientificName": "Copsychus fulicatus",
+        "commonName": "Indian Robin",
+        "category": "Birds"
+    },
+    {
+        "id": 267,
+        "slug": "lepus-nigricollis",
+        "scientificName": "Lepus nigricollis",
+        "commonName": "Indian Hare",
+        "category": "Mammals"
+    },
+    {
+        "id": 268,
+        "slug": "argya-malcolmi",
+        "scientificName": "Argya malcolmi",
+        "commonName": "Large Grey Babbler",
+        "category": "Birds"
+    },
+    {
+        "id": 269,
+        "slug": "coracias-benghalensis",
+        "scientificName": "Coracias benghalensis",
+        "commonName": "Indian Roller",
+        "category": "Birds"
+    },
+    {
+        "id": 270,
+        "slug": "pycnonotus",
+        "scientificName": "Pycnonotus",
+        "commonName": "Typical Bulbuls",
+        "category": "Birds"
+    },
+    {
+        "id": 271,
+        "slug": "phyllanthus-reticulatus",
+        "scientificName": "Phyllanthus reticulatus",
+        "commonName": "Potato-smell",
+        "category": "Plants"
+    },
+    {
+        "id": 272,
+        "slug": "aegocera",
+        "scientificName": "Aegocera",
+        "commonName": "Aegocera",
+        "category": "Insects"
+    },
+    {
+        "id": 273,
+        "slug": "scopula",
+        "scientificName": "Scopula",
+        "commonName": "Scopula",
+        "category": "Insects"
+    },
+    {
+        "id": 274,
+        "slug": "leptocoma-zeylonica",
+        "scientificName": "Leptocoma zeylonica",
+        "commonName": "Purple-rumped Sunbird",
+        "category": "Birds"
+    },
+    {
+        "id": 275,
+        "slug": "nusa",
+        "scientificName": "Nusa",
+        "commonName": "Nusa",
+        "category": "Insects"
+    },
+    {
+        "id": 276,
+        "slug": "senna-auriculata",
+        "scientificName": "Senna auriculata",
+        "commonName": "matura tea tree",
+        "category": "Plants"
+    },
+    {
+        "id": 277,
+        "slug": "xanthium",
+        "scientificName": "Xanthium",
+        "commonName": "Cockleburs",
+        "category": "Plants"
+    },
+    {
+        "id": 278,
+        "slug": "colotis-danae",
+        "scientificName": "Colotis danae",
+        "commonName": "Crimson Tip",
+        "category": "Insects"
+    },
+    {
+        "id": 279,
+        "slug": "acrida-conica",
+        "scientificName": "Acrida conica",
+        "commonName": "Giant Green Slantface",
+        "category": "Insects"
+    },
+    {
+        "id": 280,
+        "slug": "tribulus-terrestris",
+        "scientificName": "Tribulus terrestris",
+        "commonName": "puncture vine",
+        "category": "Plants"
+    },
+    {
+        "id": 281,
+        "slug": "pardosinae",
+        "scientificName": "Pardosinae",
+        "commonName": "Pardosinae",
+        "category": "Arachnids"
+    },
+    {
+        "id": 282,
+        "slug": "ananteris",
+        "scientificName": "Ananteris",
+        "commonName": "Ananteris",
+        "category": "Arachnids"
+    },
+    {
+        "id": 283,
+        "slug": "culex",
+        "scientificName": "Culex",
+        "commonName": "Culex",
+        "category": "Insects"
+    },
+    {
+        "id": 284,
+        "slug": "phoenix-intermedia",
+        "scientificName": "Phoenix Ã— intermedia",
+        "commonName": "Phoenix canariensis Ã— dactylifera",
+        "category": "Plants"
+    },
+    {
+        "id": 285,
+        "slug": "phyllotocus-macleayi",
+        "scientificName": "Phyllotocus macleayi",
+        "commonName": "Phyllotocus macleayi",
+        "category": "Insects"
+    },
+    {
+        "id": 286,
+        "slug": "diplacodes-trivialis",
+        "scientificName": "Diplacodes trivialis",
+        "commonName": "Blue Ground Skimmer",
+        "category": "Insects"
+    },
+    {
+        "id": 287,
+        "slug": "trithemis-aurora",
+        "scientificName": "Trithemis aurora",
+        "commonName": "Crimson Marsh Glider",
+        "category": "Insects"
+    },
+    {
+        "id": 288,
+        "slug": "parantica-aglea",
+        "scientificName": "Parantica aglea",
+        "commonName": "Glassy Tiger",
+        "category": "Insects"
+    },
+    {
+        "id": 289,
+        "slug": "cacomantis-passerinus",
+        "scientificName": "Cacomantis passerinus",
+        "commonName": "Grey-bellied Cuckoo",
+        "category": "Birds"
+    },
+    {
+        "id": 290,
+        "slug": "agave",
+        "scientificName": "Agave",
+        "commonName": "century plants",
+        "category": "Plants"
+    },
+    {
+        "id": 291,
+        "slug": "scolopendrinae",
+        "scientificName": "Scolopendrinae",
+        "commonName": "Scolopendrinae",
+        "category": "Others"
+    },
+    {
+        "id": 292,
+        "slug": "elanus-caeruleus",
+        "scientificName": "Elanus caeruleus",
+        "commonName": "Black-winged Kite",
+        "category": "Birds"
+    },
+    {
+        "id": 293,
+        "slug": "ploceus-philippinus",
+        "scientificName": "Ploceus philippinus",
+        "commonName": "Baya Weaver",
+        "category": "Birds"
+    },
+    {
+        "id": 294,
+        "slug": "sus-scrofa-cristatus",
+        "scientificName": "Sus scrofa cristatus",
+        "commonName": "Indian Boar",
+        "category": "Mammals"
+    },
+    {
+        "id": 295,
+        "slug": "ariophanta",
+        "scientificName": "Ariophanta",
+        "commonName": "Ariophanta",
+        "category": "Molluscs"
+    },
+    {
+        "id": 296,
+        "slug": "catochrysops-strabo",
+        "scientificName": "Catochrysops strabo",
+        "commonName": "Forget-me-not",
+        "category": "Insects"
+    },
+    {
+        "id": 297,
+        "slug": "neltuma-juliflora",
+        "scientificName": "Neltuma juliflora",
+        "commonName": "mesquite",
+        "category": "Plants"
+    },
+    {
+        "id": 298,
+        "slug": "chondromorpha-xanthotricha",
+        "scientificName": "Chondromorpha xanthotricha",
+        "commonName": "Chondromorpha xanthotricha",
+        "category": "Others"
+    },
+    {
+        "id": 299,
+        "slug": "macrotermitinae",
+        "scientificName": "Macrotermitinae",
+        "commonName": "Macrotermitinae",
+        "category": "Insects"
+    },
+    {
+        "id": 300,
+        "slug": "blaberoidea",
+        "scientificName": "Blaberoidea",
+        "commonName": "Giant and Wood Cockroaches",
+        "category": "Insects"
+    },
+    {
+        "id": 301,
+        "slug": "tenosius",
+        "scientificName": "Tenosius",
+        "commonName": "Tenosius",
+        "category": "Insects"
+    },
+    {
+        "id": 302,
+        "slug": "columba-livia-domestica",
+        "scientificName": "Columba livia domestica",
+        "commonName": "Feral Pigeon",
+        "category": "Birds"
+    },
+    {
+        "id": 303,
+        "slug": "saxicola-caprata",
+        "scientificName": "Saxicola caprata",
+        "commonName": "Pied Bushchat",
+        "category": "Birds"
+    },
+    {
+        "id": 304,
+        "slug": "trianthema-portulacastrum",
+        "scientificName": "Trianthema portulacastrum",
+        "commonName": "desert horse purslane",
+        "category": "Plants"
+    },
+    {
+        "id": 305,
+        "slug": "solenopsis-geminata",
+        "scientificName": "Solenopsis geminata",
+        "commonName": "Tropical Fire Ant",
+        "category": "Insects"
+    },
+    {
+        "id": 306,
+        "slug": "prinia-sylvatica",
+        "scientificName": "Prinia sylvatica",
+        "commonName": "Jungle Prinia",
+        "category": "Birds"
+    },
+    {
+        "id": 307,
+        "slug": "opuntia-elatior",
+        "scientificName": "Opuntia elatior",
+        "commonName": "Tall Pricklypear",
+        "category": "Plants"
+    },
+    {
+        "id": 308,
+        "slug": "aegocera-venulia",
+        "scientificName": "Aegocera venulia",
+        "commonName": "Red Masked Noctuid moth",
+        "category": "Insects"
+    },
+    {
+        "id": 309,
+        "slug": "isturgia-disputaria",
+        "scientificName": "Isturgia disputaria",
+        "commonName": "Maltese bloom",
+        "category": "Insects"
+    },
+    {
+        "id": 310,
+        "slug": "cinnyris-asiaticus",
+        "scientificName": "Cinnyris asiaticus",
+        "commonName": "Purple Sunbird",
+        "category": "Birds"
+    },
+    {
+        "id": 311,
+        "slug": "dicrurus-macrocercus",
+        "scientificName": "Dicrurus macrocercus",
+        "commonName": "Black Drongo",
+        "category": "Birds"
+    },
+    {
+        "id": 312,
+        "slug": "dicrurus-caerulescens",
+        "scientificName": "Dicrurus caerulescens",
+        "commonName": "White-bellied Drongo",
+        "category": "Birds"
+    },
+    {
+        "id": 313,
+        "slug": "cassia-roxburghii",
+        "scientificName": "Cassia roxburghii",
+        "commonName": "Roxburgh's Cassia",
+        "category": "Plants"
+    },
+    {
+        "id": 314,
+        "slug": "cyphicerini",
+        "scientificName": "Cyphicerini",
+        "commonName": "Oriental Broad-nosed Weevils",
+        "category": "Insects"
+    },
+    {
+        "id": 315,
+        "slug": "chrotogonus",
+        "scientificName": "Chrotogonus",
+        "commonName": "Chrotogonus",
+        "category": "Insects"
+    },
+    {
+        "id": 316,
+        "slug": "ailanthus-excelsa",
+        "scientificName": "Ailanthus excelsa",
+        "commonName": "Indian tree of heaven",
+        "category": "Plants"
+    },
+    {
+        "id": 317,
+        "slug": "rhipicephalus-sanguineus",
+        "scientificName": "Rhipicephalus sanguineus",
+        "commonName": "Brown Dog Tick",
+        "category": "Arachnids"
+    },
+    {
+        "id": 318,
+        "slug": "eudynamys-scolopaceus",
+        "scientificName": "Eudynamys scolopaceus",
+        "commonName": "Asian Koel",
+        "category": "Birds"
+    },
+    {
+        "id": 319,
+        "slug": "chiasmia",
+        "scientificName": "Chiasmia",
+        "commonName": "Chiasmia",
+        "category": "Insects"
+    },
+    {
+        "id": 320,
+        "slug": "isturgia",
+        "scientificName": "Isturgia",
+        "commonName": "Isturgia",
+        "category": "Insects"
+    },
+    {
+        "id": 321,
+        "slug": "zephyranthes-citrina",
+        "scientificName": "Zephyranthes citrina",
+        "commonName": "Citron zephyrlily",
+        "category": "Plants"
+    },
+    {
+        "id": 322,
+        "slug": "pholcidae",
+        "scientificName": "Pholcidae",
+        "commonName": "Cellar Spiders",
+        "category": "Arachnids"
+    },
+    {
+        "id": 323,
+        "slug": "gnaphosoidea",
+        "scientificName": "Gnaphosoidea",
+        "commonName": "Gnaphosoid Spiders",
+        "category": "Arachnids"
+    },
+    {
+        "id": 324,
+        "slug": "phimenes-flavopictus",
+        "scientificName": "Phimenes flavopictus",
+        "commonName": "Phimenes flavopictus",
+        "category": "Insects"
+    },
+    {
+        "id": 325,
+        "slug": "bungarus-caeruleus",
+        "scientificName": "Bungarus caeruleus",
+        "commonName": "Common Krait",
+        "category": "Reptiles"
+    },
+    {
+        "id": 326,
+        "slug": "ruellia-tuberosa",
+        "scientificName": "Ruellia tuberosa",
+        "commonName": "Popping Pod",
+        "category": "Plants"
+    },
+    {
+        "id": 327,
+        "slug": "oligodon-taeniolatus",
+        "scientificName": "Oligodon taeniolatus",
+        "commonName": "Streaked Kukri Snake",
+        "category": "Reptiles"
+    },
+    {
+        "id": 328,
+        "slug": "phoenix",
+        "scientificName": "Phoenix",
+        "commonName": "date palms",
+        "category": "Plants"
+    },
+    {
+        "id": 329,
+        "slug": "elanus-caeruleus-vociferus",
+        "scientificName": "Elanus caeruleus vociferus",
+        "commonName": "Asian Black-winged Kite",
+        "category": "Birds"
+    },
+    {
+        "id": 330,
+        "slug": "indigofera-linnaei",
+        "scientificName": "Indigofera linnaei",
+        "commonName": "Birdsville Indigo",
+        "category": "Plants"
+    },
+    {
+        "id": 331,
+        "slug": "euploca-strigosa",
+        "scientificName": "Euploca strigosa",
+        "commonName": "Bristly Heliotrope",
+        "category": "Plants"
+    },
+    {
+        "id": 332,
+        "slug": "thespesia-populnea",
+        "scientificName": "Thespesia populnea",
+        "commonName": "Indian tulip tree",
+        "category": "Plants"
+    },
+    {
+        "id": 333,
+        "slug": "dysdercus-superstitiosus",
+        "scientificName": "Dysdercus superstitiosus",
+        "commonName": "Dysdercus superstitiosus",
+        "category": "Insects"
+    },
+    {
+        "id": 334,
+        "slug": "sisyphini",
+        "scientificName": "Sisyphini",
+        "commonName": "Spindly-leg Dung Beetles",
+        "category": "Insects"
+    },
+    {
+        "id": 335,
+        "slug": "pericrocotus-cinnamomeus",
+        "scientificName": "Pericrocotus cinnamomeus",
+        "commonName": "Small Minivet",
+        "category": "Birds"
+    },
+    {
+        "id": 336,
+        "slug": "chrysomma-sinense",
+        "scientificName": "Chrysomma sinense",
+        "commonName": "Yellow-eyed Babbler",
+        "category": "Birds"
+    },
+    {
+        "id": 337,
+        "slug": "cecropis",
+        "scientificName": "Cecropis",
+        "commonName": "Red-rumped Swallows, Striped Swallows, and Allies",
+        "category": "Birds"
+    },
+    {
+        "id": 338,
+        "slug": "parus-cinereus",
+        "scientificName": "Parus cinereus",
+        "commonName": "Cinerous Tit",
+        "category": "Birds"
+    },
+    {
+        "id": 339,
+        "slug": "amaurornis-phoenicurus",
+        "scientificName": "Amaurornis phoenicurus",
+        "commonName": "White-breasted Waterhen",
+        "category": "Birds"
+    },
+    {
+        "id": 340,
+        "slug": "oedaleus",
+        "scientificName": "Oedaleus",
+        "commonName": "Oedaleus",
+        "category": "Insects"
+    },
+    {
+        "id": 341,
+        "slug": "cyanotis",
+        "scientificName": "Cyanotis",
+        "commonName": "Dew-grasses",
+        "category": "Plants"
+    },
+    {
+        "id": 342,
+        "slug": "mormo-maura",
+        "scientificName": "Mormo maura",
+        "commonName": "Old Lady",
+        "category": "Insects"
+    },
+    {
+        "id": 343,
+        "slug": "ganoderma",
+        "scientificName": "Ganoderma",
+        "commonName": "Artist's Brackets, Reishi, and Allies",
+        "category": "Fungi"
+    },
+    {
+        "id": 344,
+        "slug": "tarucus-nara",
+        "scientificName": "Tarucus nara",
+        "commonName": "Striped Pierrot",
+        "category": "Insects"
+    },
+    {
+        "id": 345,
+        "slug": "erigeron-bonariensis",
+        "scientificName": "Erigeron bonariensis",
+        "commonName": "Flax-leaved Horseweed",
+        "category": "Plants"
+    },
+    {
+        "id": 346,
+        "slug": "lycosidae",
+        "scientificName": "Lycosidae",
+        "commonName": "Wolf Spiders",
+        "category": "Arachnids"
+    },
+    {
+        "id": 347,
+        "slug": "psammophilus-dorsalis",
+        "scientificName": "Psammophilus dorsalis",
+        "commonName": "Rock Dragon",
+        "category": "Reptiles"
+    },
+    {
+        "id": 348,
+        "slug": "orthoptera",
+        "scientificName": "Orthoptera",
+        "commonName": "Grasshoppers, Crickets, and Katydids",
+        "category": "Insects"
+    },
+    {
+        "id": 349,
+        "slug": "trigonocorypha",
+        "scientificName": "Trigonocorypha",
+        "commonName": "Trigonocorypha",
+        "category": "Insects"
+    },
+    {
+        "id": 350,
+        "slug": "egretta",
+        "scientificName": "Egretta",
+        "commonName": "Small Egrets and Herons",
+        "category": "Birds"
+    },
+    {
+        "id": 351,
+        "slug": "saxicola",
+        "scientificName": "Saxicola",
+        "commonName": "Stonechats and Bushchats",
+        "category": "Birds"
+    },
+    {
+        "id": 352,
+        "slug": "caralluma",
+        "scientificName": "Caralluma",
+        "commonName": "Caralluma",
+        "category": "Plants"
+    },
+    {
+        "id": 353,
+        "slug": "tachyta-nana",
+        "scientificName": "Tachyta nana",
+        "commonName": "Tachyta nana",
+        "category": "Insects"
+    },
+    {
+        "id": 354,
+        "slug": "tecoma",
+        "scientificName": "Tecoma",
+        "commonName": "Tecoma",
+        "category": "Plants"
+    },
+    {
+        "id": 355,
+        "slug": "scolopendra",
+        "scientificName": "Scolopendra",
+        "commonName": "Giant Centipedes",
+        "category": "Others"
+    },
+    {
+        "id": 356,
+        "slug": "psittacula-krameri",
+        "scientificName": "Psittacula krameri",
+        "commonName": "Rose-ringed Parakeet",
+        "category": "Birds"
+    },
+    {
+        "id": 357,
+        "slug": "plocealauda-erythroptera",
+        "scientificName": "Plocealauda erythroptera",
+        "commonName": "Indian Bush Lark",
+        "category": "Birds"
+    },
+    {
+        "id": 358,
+        "slug": "prinia-inornata",
+        "scientificName": "Prinia inornata",
+        "commonName": "Plain Prinia",
+        "category": "Birds"
+    },
+    {
+        "id": 359,
+        "slug": "indothemis-carnatica",
+        "scientificName": "Indothemis carnatica",
+        "commonName": "Black Marsh Skimmer",
+        "category": "Insects"
+    },
+    {
+        "id": 360,
+        "slug": "motacilla-maderaspatensis",
+        "scientificName": "Motacilla maderaspatensis",
+        "commonName": "White-browed Wagtail",
+        "category": "Birds"
+    }
+]

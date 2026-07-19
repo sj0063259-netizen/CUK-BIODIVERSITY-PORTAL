@@ -1,0 +1,322 @@
+/* ===============================
+   CUK Biodiversity Portal
+   Global Styles
+================================= */
+
+:root{
+
+    --primary:#2E7D32;
+    --secondary:#43A047;
+    --light:#F5FFF5;
+    --dark:#1B4332;
+    --white:#ffffff;
+    --gray:#6c757d;
+
+    --radius:18px;
+
+    --shadow:0 10px 25px rgba(0,0,0,.08);
+
+    --transition:.3s;
+}
+
+*{
+
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+
+    font-family:'Poppins',sans-serif;
+
+    background:var(--light);
+
+    color:#222;
+
+    overflow-x:hidden;
+}
+
+a{
+
+    text-decoration:none;
+}
+
+section{
+
+    padding:90px 0;
+}
+
+/* HERO */
+
+.hero{
+
+    min-height:90vh;
+
+    display:flex;
+
+    align-items:center;
+
+    background:linear-gradient(135deg,#E8F5E9,#F8FFF8);
+}
+
+.hero h1{
+
+    font-weight:700;
+
+    color:var(--dark);
+}
+
+.hero p{
+
+    color:var(--gray);
+
+    font-size:1.15rem;
+}
+
+.hero-image{
+
+    width:100%;
+
+    max-width:480px;
+}
+
+/* SEARCH */
+
+.search-section{
+
+    padding:40px 0;
+}
+
+.search-box{
+
+    background:white;
+
+    border-radius:60px;
+
+    box-shadow:var(--shadow);
+
+    padding:15px 25px;
+
+    display:flex;
+
+    align-items:center;
+
+    gap:15px;
+}
+
+.search-box input{
+
+    border:none;
+
+    outline:none;
+
+    width:100%;
+
+    background:none;
+
+    font-size:17px;
+}
+
+/* TITLES */
+
+.section-title{
+
+    text-align:center;
+
+    font-weight:700;
+
+    color:var(--dark);
+}
+
+/* CATEGORY */
+
+.category-card{
+
+    background:white;
+
+    border-radius:var(--radius);
+
+    padding:35px;
+
+    text-align:center;
+
+    transition:var(--transition);
+
+    box-shadow:var(--shadow);
+
+    cursor:pointer;
+}
+
+.category-card:hover{
+
+    transform:translateY(-10px);
+}
+
+.category-card i{
+
+    font-size:50px;
+
+    color:var(--primary);
+
+    margin-bottom:20px;
+}
+
+/* STATS */
+
+.stats{
+
+    background:var(--dark);
+
+    color:white;
+}
+
+.stat-card{
+
+    text-align:center;
+
+    padding:30px;
+}
+
+.stat-card h2{
+
+    font-size:50px;
+
+    color:#7CFC00;
+}
+
+/* FOOTER */
+
+footer{
+
+    background:#081C15;
+
+    color:white;
+
+    padding:25px 0;
+}
+
+/* BUTTONS */
+
+.btn{
+
+    border-radius:50px;
+
+    padding:12px 30px;
+}
+
+/* RESPONSIVE */
+
+@media(max-width:992px){
+
+.hero{
+
+text-align:center;
+
+padding-top:60px;
+}
+
+.hero-image{
+
+margin-top:40px;
+}
+
+}
+/* ===========================
+        NAVBAR
+=========================== */
+
+.navbar{
+
+    transition:.4s;
+
+    padding:14px 0;
+
+    z-index:9999;
+}
+
+.navbar-brand{
+
+    font-size:1.4rem;
+
+    font-weight:700;
+}
+
+.nav-link{
+
+    margin-left:18px;
+
+    font-weight:500;
+
+    color:#333 !important;
+
+    transition:.3s;
+}
+
+.nav-link:hover{
+
+    color:var(--primary) !important;
+}
+
+.nav-link.active{
+
+    color:var(--primary) !important;
+
+    font-weight:600;
+}
+
+/* Fixed Navbar Space */
+
+body{
+
+    padding-top:75px;
+}
+/* ===========================
+            FOOTER
+=========================== */
+
+.footer{
+
+    background:#0d2b1f;
+
+    color:white;
+
+    padding:70px 0 25px;
+}
+
+.footer h3,
+.footer h5{
+
+    margin-bottom:20px;
+}
+
+.footer-links{
+
+    list-style:none;
+
+    padding:0;
+}
+
+.footer-links li{
+
+    margin-bottom:10px;
+}
+
+.footer-links a{
+
+    color:#ddd;
+
+    text-decoration:none;
+
+    transition:.3s;
+}
+
+.footer-links a:hover{
+
+    color:#7CFC00;
+}
+
+.footer hr{
+
+    border-color:rgba(255,255,255,.15);
+}

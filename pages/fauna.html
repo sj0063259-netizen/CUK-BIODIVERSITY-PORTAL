@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport"
+        content="width=device-width, initial-scale=1.0">
+
+    <title>Fauna Explorer | CUK BioAtlas</title>
+
+    <!-- Bootstrap -->
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css"
+        rel="stylesheet">
+
+    <!-- Font Awesome -->
+
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+
+    <!-- Google Font -->
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
+        rel="stylesheet">
+
+    <!-- CSS -->
+
+    <link rel="stylesheet" href="../css/style.css">
+
+    <link rel="stylesheet" href="../css/navbar.css">
+
+    <link rel="stylesheet" href="../css/footer.css">
+
+    <link rel="stylesheet" href="../css/cards.css">
+
+    <link rel="stylesheet" href="../css/explorer.css">
+
+</head>
+
+<body>
+
+    <!-- Navbar -->
+
+    <div id="navbar"></div>
+
+    <!-- Hero -->
+
+    <section class="explorer-hero fauna-hero">
+
+        <div class="container">
+
+            <h1>
+
+                🐾 Fauna Explorer
+
+            </h1>
+
+            <p>
+
+                Discover birds, mammals, reptiles,
+                insects, arachnids and other wildlife
+                recorded inside the CUK Campus.
+
+            </p>
+
+        </div>
+
+    </section>
+
+    <!-- Statistics -->
+
+    <section class="container mt-5">
+
+        <div class="row text-center">
+
+            <div class="col-md-4">
+
+                <div class="stat-card">
+
+                    <h3 id="totalSpecies">0</h3>
+
+                    <p>Total Animal Species</p>
+
+                </div>
+
+            </div>
+
+            <div class="col-md-4">
+
+                <div class="stat-card">
+
+                    <h3 id="totalObservations">0</h3>
+
+                    <p>Observations</p>
+
+                </div>
+
+            </div>
+
+            <div class="col-md-4">
+
+                <div class="stat-card">
+
+                    <h3 id="contributors">0</h3>
+
+                    <p>Contributors</p>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- Search -->
+
+    <section class="container my-5">
+
+        <input
+
+            id="searchInput"
+
+            class="form-control"
+
+            type="text"
+
+            placeholder="Search Animal..."
+
+        >
+
+    </section>
+
+    <!-- Category Filters -->
+
+    <section class="container mb-5">
+
+        <div class="filter-buttons">
+
+            <button class="active" data-filter="All">
+
+                All
+
+            </button>
+
+            <button data-filter="Birds">
+
+                Birds
+
+            </button>
+
+            <button data-filter="Mammals">
+
+                Mammals
+
+            </button>
+
+            <button data-filter="Reptiles">
+
+                Reptiles
+
+            </button>
+
+            <button data-filter="Insects">
+
+                Insects
+
+            </button>
+
+            <button data-filter="Arachnids">
+
+                Arachnids
+
+            </button>
+
+            <button data-filter="Amphibians">
+
+                Amphibians
+
+            </button>
+
+            <button data-filter="Fungi">
+
+                Fungi
+
+            </button>
+
+        </div>
+
+    </section>
+
+    <!-- Species -->
+
+    <section class="container">
+
+        <div
+
+            class="row g-4"
+
+            id="speciesContainer">
+
+        </div>
+
+    </section>
+
+    <!-- Pagination -->
+
+    <section class="container mt-5">
+
+        <nav>
+
+            <ul
+
+                id="pagination"
+
+                class="pagination justify-content-center">
+
+            </ul>
+
+        </nav>
+
+    </section>
+
+    <!-- Footer -->
+
+    <div id="footer"></div>
+
+    <script src="../js/navbar.js"></script>
+
+    <script src="../js/footer.js"></script>
+
+    <script src="../js/fauna.js"></script>
+
+</body>
+
+</html>

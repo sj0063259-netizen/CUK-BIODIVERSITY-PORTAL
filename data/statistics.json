@@ -1,0 +1,14 @@
+{
+    "totalSpecies": 360,
+    "totalObservations": 546,
+    "totalCategories": 10,
+    "plants": 195,
+    "birds": 51,
+    "insects": 80,
+    "mammals": 8,
+    "reptiles": 6,
+    "amphibians": 2,
+    "arachnids": 9,
+    "fungi": 3,
+    "others": 6
+}

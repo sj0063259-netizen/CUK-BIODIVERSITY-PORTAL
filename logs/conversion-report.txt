@@ -1,0 +1,46 @@
+============================================
+CUK BioAtlas Data Conversion Report
+============================================
+
+Excel File
+Biodiversity of CUK.xlsx
+
+Sheet
+Database
+
+Total Observations
+546
+
+Unique Species
+360
+
+Categories
+10
+
+Category Summary
+--------------------------
+Plants : 195
+Insects : 80
+Birds : 51
+Arachnids : 9
+Mammals : 8
+Reptiles : 6
+Others : 4
+Fungi : 3
+Molluscs : 2
+Amphibians : 2
+
+Statistics
+--------------------------
+Plants : 195
+Birds : 51
+Insects : 80
+Mammals : 8
+Reptiles : 6
+Amphibians : 2
+Arachnids : 9
+Fungi : 3
+Others : 6
+
+Generated On
+18/7/2026, 4:30:33 pm

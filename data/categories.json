@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Plants",
+        "count": 195
+    },
+    {
+        "name": "Insects",
+        "count": 80
+    },
+    {
+        "name": "Birds",
+        "count": 51
+    },
+    {
+        "name": "Arachnids",
+        "count": 9
+    },
+    {
+        "name": "Mammals",
+        "count": 8
+    },
+    {
+        "name": "Reptiles",
+        "count": 6
+    },
+    {
+        "name": "Others",
+        "count": 4
+    },
+    {
+        "name": "Fungi",
+        "count": 3
+    },
+    {
+        "name": "Molluscs",
+        "count": 2
+    },
+    {
+        "name": "Amphibians",
+        "count": 2
+    }
+]

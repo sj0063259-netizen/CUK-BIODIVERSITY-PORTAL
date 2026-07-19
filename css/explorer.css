@@ -1,0 +1,472 @@
+/* ===============================
+   CUK BioAtlas Explorer Styles
+   Used by: Flora & Fauna Pages
+==================================*/
+
+:root{
+    --primary:#2E7D32;
+    --primary-dark:#1B5E20;
+    --secondary:#66BB6A;
+    --light:#F4F8F3;
+    --white:#ffffff;
+    --text:#263238;
+    --gray:#6c757d;
+    --border:#e5e5e5;
+    --shadow:0 8px 20px rgba(0,0,0,.08);
+    --radius:16px;
+    --transition:.3s ease;
+}
+
+/* ================= HERO ================= */
+
+.explorer-hero{
+
+    background:linear-gradient(135deg,#2E7D32,#66BB6A);
+
+    color:white;
+
+    padding:80px 20px;
+
+    text-align:center;
+
+    border-radius:0 0 30px 30px;
+
+}
+
+.fauna-hero{
+
+    background:linear-gradient(135deg,#0f766e,#14b8a6);
+
+}
+
+.explorer-hero h1{
+
+    font-size:3rem;
+
+    font-weight:700;
+
+    margin-bottom:15px;
+
+}
+
+.explorer-hero p{
+
+    font-size:1.1rem;
+
+    max-width:750px;
+
+    margin:auto;
+
+    opacity:.95;
+
+}
+
+/* ================= Statistics ================= */
+
+.stat-card{
+
+    background:white;
+
+    border-radius:16px;
+
+    box-shadow:var(--shadow);
+
+    padding:25px;
+
+    transition:var(--transition);
+
+    height:100%;
+
+}
+
+.stat-card:hover{
+
+    transform:translateY(-6px);
+
+}
+
+.stat-card h3{
+
+    color:var(--primary);
+
+    font-size:2.2rem;
+
+    font-weight:700;
+
+}
+
+.stat-card p{
+
+    margin:0;
+
+    color:var(--gray);
+
+    font-weight:500;
+
+}
+
+/* ================= Search ================= */
+
+#searchInput{
+
+    border-radius:50px;
+
+    padding:14px 22px;
+
+    border:2px solid #d8e8d7;
+
+    font-size:16px;
+
+    transition:.3s;
+
+}
+
+#searchInput:focus{
+
+    border-color:var(--primary);
+
+    box-shadow:0 0 0 .2rem rgba(46,125,50,.15);
+
+}
+
+/* ================= Filter Buttons ================= */
+
+.filter-buttons{
+
+    display:flex;
+
+    flex-wrap:wrap;
+
+    justify-content:center;
+
+    gap:12px;
+
+}
+
+.filter-buttons button{
+
+    border:none;
+
+    background:white;
+
+    border-radius:30px;
+
+    padding:10px 18px;
+
+    font-weight:600;
+
+    box-shadow:var(--shadow);
+
+    transition:.3s;
+
+}
+
+.filter-buttons button:hover{
+
+    background:var(--primary);
+
+    color:white;
+
+}
+
+.filter-buttons button.active{
+
+    background:var(--primary);
+
+    color:white;
+
+}
+
+/* ================= Species Cards ================= */
+
+.species-card{
+
+    background:white;
+
+    border-radius:18px;
+
+    overflow:hidden;
+
+    box-shadow:var(--shadow);
+
+    transition:.35s;
+
+    height:100%;
+
+}
+
+.species-card:hover{
+
+    transform:translateY(-8px);
+
+}
+
+.species-image{
+
+    width:100%;
+
+    height:220px;
+
+    object-fit:cover;
+
+    background:#f4f4f4;
+
+}
+
+.species-body{
+
+    padding:20px;
+
+}
+
+.species-name{
+
+    font-size:1.25rem;
+
+    font-weight:700;
+
+    color:var(--text);
+
+}
+
+.scientific-name{
+
+    color:var(--gray);
+
+    font-style:italic;
+
+    margin-bottom:15px;
+
+}
+
+.category-badge{
+
+    display:inline-block;
+
+    padding:5px 12px;
+
+    background:#E8F5E9;
+
+    color:var(--primary-dark);
+
+    border-radius:30px;
+
+    font-size:.85rem;
+
+    margin-bottom:15px;
+
+}
+
+.species-info{
+
+    display:flex;
+
+    justify-content:space-between;
+
+    margin-bottom:15px;
+
+    color:#555;
+
+    font-size:.9rem;
+
+}
+
+.details-btn{
+
+    width:100%;
+
+    border:none;
+
+    background:var(--primary);
+
+    color:white;
+
+    padding:11px;
+
+    border-radius:10px;
+
+    font-weight:600;
+
+    transition:.3s;
+
+}
+
+.details-btn:hover{
+
+    background:var(--primary-dark);
+
+}
+
+/* ================= Loading ================= */
+
+.loading{
+
+    text-align:center;
+
+    padding:70px;
+
+    font-size:20px;
+
+    color:var(--gray);
+
+}
+
+/* ================= Empty State ================= */
+
+.no-results{
+
+    text-align:center;
+
+    padding:70px;
+
+}
+
+.no-results i{
+
+    font-size:70px;
+
+    color:#bbb;
+
+}
+
+.no-results h3{
+
+    margin-top:20px;
+
+}
+
+.no-results p{
+
+    color:var(--gray);
+
+}
+
+/* ================= Pagination ================= */
+
+.pagination{
+
+    margin-top:40px;
+
+}
+
+.pagination .page-link{
+
+    color:var(--primary);
+
+    border-radius:8px;
+
+    margin:0 4px;
+
+    border:none;
+
+    box-shadow:var(--shadow);
+
+}
+
+.pagination .active .page-link{
+
+    background:var(--primary);
+
+    color:white;
+
+}
+
+/* ================= Card Animation ================= */
+
+.species-card{
+
+    animation:fadeUp .5s ease;
+
+}
+
+@keyframes fadeUp{
+
+    from{
+
+        opacity:0;
+
+        transform:translateY(20px);
+
+    }
+
+    to{
+
+        opacity:1;
+
+        transform:translateY(0);
+
+    }
+
+}
+
+/* ================= Responsive ================= */
+
+@media(max-width:992px){
+
+.explorer-hero h1{
+
+font-size:2.5rem;
+
+}
+
+}
+
+@media(max-width:768px){
+
+.explorer-hero{
+
+padding:60px 20px;
+
+}
+
+.explorer-hero h1{
+
+font-size:2rem;
+
+}
+
+.species-image{
+
+height:200px;
+
+}
+
+.filter-buttons{
+
+justify-content:flex-start;
+
+overflow-x:auto;
+
+padding-bottom:10px;
+
+}
+
+.filter-buttons::-webkit-scrollbar{
+
+height:6px;
+
+}
+
+}
+
+@media(max-width:576px){
+
+.stat-card{
+
+margin-bottom:20px;
+
+}
+
+.species-image{
+
+height:180px;
+
+}
+
+#searchInput{
+
+font-size:15px;
+
+}
+
+}
