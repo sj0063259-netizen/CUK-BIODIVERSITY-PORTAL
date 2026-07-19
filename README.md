@@ -310,13 +310,41 @@ git push origin feature-name
 This project is developed for academic and educational purposes at the **Central University of Karnataka**.
 
 ---
+# 👨‍💻 Project Lead
 
-# 👨‍💻 Developed By
+**Satyam Kumar Jha**
 
-Department of Electrical Engineering
+B.Tech Electrical Engineering
 
 Central University of Karnataka
 
-Academic Project
+Responsible for:
 
-2026
+- Project Architecture
+- Website Development
+- Frontend Design
+- Data Processing Pipeline
+- JSON Generation Engine
+- GitHub Repository Management
+
+---
+
+# 🤝 Contributors
+
+This project is an interdisciplinary initiative involving contributors from multiple departments of the Central University of Karnataka.
+
+Contributors include students and faculty members from:
+
+- Department of Life Sciences
+- Department of Electrical Engineering
+- Other participating departments
+
+The biodiversity observations, species identification, and ecological information are contributed collaboratively by members from these departments.
+
+---
+
+# 🎯 Project Objective
+
+The CUK Biodiversity Portal aims to create a digital biodiversity database of the Central University of Karnataka campus by combining ecological observations with modern web technologies.
+
+The project promotes interdisciplinary collaboration between biological sciences and engineering to document, visualize, and preserve campus biodiversity.
