@@ -4,6 +4,8 @@ A dynamic biodiversity web portal developed for the **Central University of Karn
 
 The portal converts biodiversity observations collected from **iNaturalist** into structured JSON files and displays them through an interactive website.
 
+GitHub Repository: https://github.com/sj0063259-netizen/CUK-BIODIVERSITY-PORTAL
+
 ---
 
 # 📖 Project Overview
@@ -33,17 +35,21 @@ The CUK Biodiversity Portal is designed to:
 - Reusable Navbar & Footer
 - Statistics Generation
 - Excel to JSON Conversion
+- Species Details Page
+- Species gallery, map, observations, and related species
+- Wikipedia-based species descriptions
+- GBIF taxonomy integration
 
 ---
 
 ## 🚧 Under Development
 
-- Species Details Page
 - Interactive Campus Map
 - Latitude & Longitude Mapping
 - Observation Popups
 - Advanced Search
 - Dashboard & Analytics
+- iNaturalist-style tabbed information layout
 
 ---
 
@@ -81,7 +87,6 @@ CUK-Biodiversity-Portal/
 │
 ├── css/
 │     ├── style.css
-│     ├── navbar.css
 │     ├── footer.css
 │     ├── cards.css
 │     ├── explorer.css
@@ -249,13 +254,14 @@ Current Completed Modules
 - Search
 - Responsive UI
 - Navigation Components
+- Species Details Page
 
 Current Development
 
-- Species Details Page
 - Interactive Campus Map
 - Observation Marker Integration
 - Latitude & Longitude Mapping
+- Tabbed Species Information Layout
 
 ---
 
@@ -264,7 +270,6 @@ Current Development
 - Interactive GIS Map
 - Observation Timeline
 - Species Distribution
-- Image Gallery
 - Admin Dashboard
 - Data Upload Portal
 - Research Export
@@ -310,12 +315,12 @@ git push origin feature-name
 This project is developed for academic and educational purposes at the **Central University of Karnataka**.
 
 ---
+
 # 👨‍💻 Project Lead
 
 **Satyam Kumar Jha**
 
 B.Tech Electrical Engineering
-
 Central University of Karnataka
 
 Responsible for:
