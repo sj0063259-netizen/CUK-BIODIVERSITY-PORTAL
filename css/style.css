@@ -26,16 +26,7 @@
     box-sizing:border-box;
 }
 
-body{
 
-    font-family:'Poppins',sans-serif;
-
-    background:var(--light);
-
-    color:#222;
-
-    overflow-x:hidden;
-}
 
 a{
 
@@ -226,50 +217,26 @@ margin-top:40px;
         NAVBAR
 =========================== */
 
-.navbar{
+/* ===========================
+        NAVBAR
+=========================== */
 
-    transition:.4s;
+.navbar{
 
     padding:14px 0;
 
-    z-index:9999;
+    background:#fff !important;
+
+    box-shadow:0 2px 12px rgba(0,0,0,.08);
+
+    z-index:1050;
+
 }
-
-.navbar-brand{
-
-    font-size:1.4rem;
-
-    font-weight:700;
-}
-
-.nav-link{
-
-    margin-left:18px;
-
-    font-weight:500;
-
-    color:#333 !important;
-
-    transition:.3s;
-}
-
-.nav-link:hover{
-
-    color:var(--primary) !important;
-}
-
-.nav-link.active{
-
-    color:var(--primary) !important;
-
-    font-weight:600;
-}
-
-/* Fixed Navbar Space */
 
 body{
 
-    padding-top:75px;
+    padding-top:80px;
+
 }
 /* ===========================
             FOOTER

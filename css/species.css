@@ -1,0 +1,366 @@
+/* =========================
+   SPECIES DETAILS PAGE
+========================= */
+
+body{
+    background:#f7f9fb;
+    scroll-behavior:smooth;
+}
+
+/* ================= HERO ================= */
+
+#speciesImage{
+
+    width:100%;
+    height:430px;
+    object-fit:cover;
+
+    border-radius:18px;
+
+    box-shadow:0 10px 30px rgba(0,0,0,.15);
+
+    transition:.35s;
+
+}
+
+#speciesImage:hover{
+
+    transform:scale(1.02);
+
+}
+
+#categoryBadge{
+
+    font-size:15px;
+    padding:8px 15px;
+    border-radius:50px;
+
+}
+
+#commonName{
+
+    font-weight:700;
+    color:#222;
+
+}
+
+#scientificName{
+
+    color:#6c757d;
+
+}
+
+/* ================= STAT CARDS ================= */
+
+.card{
+
+    border:none;
+    border-radius:16px;
+    transition:.3s;
+
+}
+
+.card:hover{
+
+    transform:translateY(-6px);
+
+    box-shadow:0 12px 30px rgba(0,0,0,.12);
+
+}
+
+.card h2{
+
+    color:#198754;
+    font-weight:700;
+
+}
+
+/* ================= DESCRIPTION ================= */
+
+#description{
+
+    line-height:1.9;
+
+    font-size:18px;
+
+    color:#555;
+
+}
+
+/* ================= GALLERY ================= */
+
+.gallery-image{
+
+    width:100%;
+
+    height:230px;
+
+    object-fit:cover;
+
+    border-radius:15px;
+
+    cursor:pointer;
+
+    transition:.35s;
+
+    box-shadow:0 8px 18px rgba(0,0,0,.12);
+
+}
+
+.gallery-image:hover{
+
+    transform:scale(1.04);
+
+}
+
+/* ================= MAP ================= */
+
+#map{
+
+    width:100%;
+
+    height:520px;
+
+    border-radius:18px;
+
+    overflow:hidden;
+
+    box-shadow:0 8px 25px rgba(0,0,0,.12);
+
+}
+
+/* ================= TABLE ================= */
+
+.table{
+
+    background:white;
+
+    border-radius:15px;
+
+    overflow:hidden;
+
+}
+
+.table thead{
+
+    background:#198754;
+
+    color:white;
+
+}
+
+.table td{
+
+    vertical-align:middle;
+
+}
+
+/* ================= BUTTON ================= */
+
+.btn-success{
+
+    border-radius:50px;
+
+    padding:10px 22px;
+
+}
+
+/* ================= SIMILAR SPECIES ================= */
+
+.similar-card{
+
+    border-radius:15px;
+
+    overflow:hidden;
+
+    transition:.35s;
+
+}
+
+.similar-card img{
+
+    height:210px;
+
+    object-fit:cover;
+
+}
+
+.similar-card:hover{
+
+    transform:translateY(-8px);
+
+    box-shadow:0 12px 28px rgba(0,0,0,.18);
+
+}
+
+/* ================= LOADER ================= */
+
+.loader{
+
+    width:65px;
+
+    height:65px;
+
+    border:6px solid #eee;
+
+    border-top:6px solid #198754;
+
+    border-radius:50%;
+
+    animation:spin 1s linear infinite;
+
+    margin:auto;
+
+}
+
+@keyframes spin{
+
+    from{
+
+        transform:rotate(0deg);
+
+    }
+
+    to{
+
+        transform:rotate(360deg);
+
+    }
+
+}
+
+/* ================= ANIMATION ================= */
+
+.fade-in{
+
+    animation:fade .8s ease;
+
+}
+
+@keyframes fade{
+
+    from{
+
+        opacity:0;
+
+        transform:translateY(25px);
+
+    }
+
+    to{
+
+        opacity:1;
+
+        transform:translateY(0);
+
+    }
+
+}
+
+/* ================= RESPONSIVE ================= */
+
+@media(max-width:992px){
+
+#speciesImage{
+
+    height:340px;
+
+}
+
+#map{
+
+    height:420px;
+
+}
+
+}
+
+@media(max-width:768px){
+
+#speciesImage{
+
+    height:280px;
+
+}
+
+#commonName{
+
+    font-size:34px;
+
+}
+
+#scientificName{
+
+    font-size:22px;
+
+}
+
+.gallery-image{
+
+    height:180px;
+
+}
+
+#map{
+
+    height:350px;
+
+}
+
+}
+.gallery-image{
+
+    width:100%;
+
+    height:220px;
+
+    object-fit:cover;
+
+    border-radius:15px;
+
+    cursor:pointer;
+
+    transition:.3s;
+
+    box-shadow:0 6px 18px rgba(0,0,0,.12);
+
+}
+
+.gallery-image:hover{
+
+    transform:scale(1.05);
+
+}
+/* ==================================
+   Similar Species
+================================== */
+
+.similar-card{
+
+    border:none;
+
+    border-radius:16px;
+
+    overflow:hidden;
+
+    transition:.3s;
+
+}
+
+.similar-card img{
+
+    width:100%;
+
+    height:220px;
+
+    object-fit:cover;
+
+}
+
+.similar-card:hover{
+
+    transform:translateY(-8px);
+
+    box-shadow:0 15px 30px rgba(0,0,0,.15);
+
+}
